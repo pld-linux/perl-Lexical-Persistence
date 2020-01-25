@@ -4,7 +4,6 @@
 #
 %define		pdir	Lexical
 %define		pnam	Persistence
-%include	/usr/lib/rpm/macros.perl
 Summary:	Lexical::Persistence - Persistent lexical variable values for arbitrary calls.
 Name:		perl-Lexical-Persistence
 Version:	1.020

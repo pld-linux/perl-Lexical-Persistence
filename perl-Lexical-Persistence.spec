@@ -7,7 +7,7 @@
 Summary:	Lexical::Persistence - Persistent lexical variable values for arbitrary calls.
 Name:		perl-Lexical-Persistence
 Version:	1.020
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Lexical/%{pdir}-%{pnam}-%{version}.tar.gz
